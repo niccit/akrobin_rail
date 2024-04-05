@@ -1,0 +1,6 @@
+[submodule "catchnhole"]
+	path = catchnhole
+	url = https://github.com/mmalecki/catchnhole
+[submodule "JointSCAD"]
+	path = JointSCAD
+	url = git@github.com:HopefulLlama/JointSCAD.git
