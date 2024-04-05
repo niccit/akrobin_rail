@@ -3,7 +3,7 @@
 // A modularized way to hang my Akrobins. I didn't need the big metal louvered hangers available.
 
 use <catchnhole/catchnhole.scad>;  // mmalecki - https://github.com/mmalecki/catchnhole
-include <JointSCAD/dist/JointSCAD.scad>;
+include <JointSCAD/dist/JointSCAD.scad>;  // HopefulLlama - https://github.com/HopefulLlama/JointSCAD
 
 $fa = 1;
 $fs = 0.4;
