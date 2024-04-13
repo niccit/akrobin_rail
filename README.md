@@ -36,7 +36,7 @@ Printed on a FlashForge Adventurer 4 using:
 * PrintLife Pro PLA
 * Bed Temp: 50c
 * Nozzle Temp: 220c
-* Supports: Yes, auto - I wanted the front of the pate to look good, if I had flipped it to avoid supports it wouldn't 
+* Supports: Yes, auto, optional - I wanted the front of the pate to look good, if I had flipped it to avoid supports it wouldn't 
 have looked nice because I probably need to replace my plate :)
   * Supports Type: Line
   * Pillar Size: 1.5mm
